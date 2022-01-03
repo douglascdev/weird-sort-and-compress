@@ -1,5 +1,5 @@
-# Weird Compression Thing
-A weird integer sorting + compression algorithm inspired by a conversation with [Luthingx]( https://github.com/Luthingx ) (it probably already exists by some name I don't know yet). There's a lot still to improve about this algorithm, so avoid using it.
+# Weird Sort-and-Compress Thing
+A weird integer sorting + compression algorithm inspired by a conversation with [Luthingx]( https://github.com/Luthingx ) (it probably already exists by some name I don't know yet). There's a lot still to improve about this algorithm, so be careful where you use it.
 
 
 ## How it works
