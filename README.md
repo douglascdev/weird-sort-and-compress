@@ -24,7 +24,7 @@ We can now return the list as a single number, along with a pair of integers con
 
 ## Memory efficiency
 
-Here's a list with the sum of the number of bits of all numbers in a list with 100 elements, generated with random values in the range 0 to 50 and generated 20 times, vs. the number of bits in the resulting compressed integer:
+Here's a list with the sum of the number of bits of all numbers in a list with 100 elements, generated with random values in the range 0 to 50 and generated 20 times, vs. the number of bits in the resulting compressed integer(taking as a premise that all numbers in the array are all actually stored in continuous memory, including duplicates):
 
     467 => 208
     486 => 230
